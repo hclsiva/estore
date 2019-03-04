@@ -1,4 +1,4 @@
-# estore
+# E-Store
 E-Store application for practicing full stack application development
 
-#Following architecture is planned
+# Following architecture is planned
