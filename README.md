@@ -16,4 +16,11 @@ E-Store application for practicing full stack application development
     MySQL Database.
 
 Application will run in tomcat
+#How to run Application
+1. Clone the Application
+2. goto src >> main and unzip webapp.zip into the same folder
+3. run mvn clean install in the application folder.
+4. java -jar target/estore-0.0.1-SNAPSHOT.jar
+5. launch localhost:7999/login.html
+
 
