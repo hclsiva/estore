@@ -11,6 +11,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 @SpringBootApplication
 @ComponentScan({"com.app.estore.controller",
                 "com.app.estore.framework.cache",
+                "com.app.estore.controller.helper",
                 "com.app.estore.framework.services.api",
                 "com.app.estore.framework.services.impl",                
                 "com.app.estore.framework.cache"})
