@@ -1,0 +1,19 @@
+{
+    "filterCategory":[
+        {
+            "name":"Shirt"
+        },
+        {
+            "name":"Department"
+        },
+        {
+            "name":"Theme"
+        },
+        {
+            "name":"Size"
+        },
+        {
+            "name":"Color"
+        }
+    ]
+}
